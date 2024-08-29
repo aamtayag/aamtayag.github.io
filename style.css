@@ -7,3 +7,14 @@ body {
    background-color: rgb(254, 231, 218);
 }
 
+a {
+   color: #466995;
+   text-decoration: underline;
+   cursor: pointer;
+ }
+ 
+ a:hover {
+   text-decoration: none;
+ }
+
+ 
