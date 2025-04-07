@@ -6,3 +6,9 @@
 # Ignore these files
 my-webpage.txt
 
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore txt files
+*.txt
